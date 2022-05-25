@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "986411581414",
+    "project_id": "hope-e65c9",
+    "storage_bucket": "hope-e65c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986411581414:android:6f820a78bdd2657cb32027",
+        "android_client_info": {
+          "package_name": "com.surlex.packgo.warehouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986411581414-ev7lg1q2h3imjqoau2s1tdagsim384o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN8nwaf9NaLoi0JCG4vyjb58K2FPrE_18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986411581414-ev7lg1q2h3imjqoau2s1tdagsim384o7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
